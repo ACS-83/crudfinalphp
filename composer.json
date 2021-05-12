@@ -1,0 +1,20 @@
+{
+    "name": "acs-83/crudfinalphp",
+    "description": "Crud final PHP",
+    "type": "project",
+    "license": "Free",
+    "authors": [
+        {
+            "name": "acs-83",
+            "email": "souperform@gmail.com"
+        }
+    ],
+    "config" :{
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "clases"
+        }
+    }
+}
